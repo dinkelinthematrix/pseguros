@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "address": "Avellaneda - Av. Crisólogo Larralde 1861 - CP 1872 - Avellaneda",
+      "id": "06",
+      "phone": "0810 222 244",
+      "person": "Federico Alberto Belusci",
+      "email": "comercialcaa@pseguros.com.ar",
+      "hours": "9:30 a 16:30."
+    },
+    {
+      "address": "Bahía Blanca - Chiclana 260 - CP8000 - Bahía Blanca",
+      "id": "06",
+      "phone": "(0291) 455-2821 / 452-4748 / 451-5257 /455-6873",
+      "person": "Jose Luis Agrazar",
+      "email": "centrobahiablanca@pseguros.com.ar",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Casa Central - Carlos Pellegrini 71 - CP1009",
+      "id": "02",
+      "phone": "4346-7300 / 0810-222-2444"
+    },
+    {
+      "address": "Chivilcoy - Miguel Calderón 203 - CP6620 - Chivilcoy",
+      "id": "06",
+      "phone": "(02346) 42-9896/9897 / 43-0442/3854",
+      "person": "Fernando Dell Immagine",
+      "email": "centrochivilcoy@pseguros.com.ar",
+      "hours": "9 a 17:00."
+    },
+    {
+      "address": "Córdoba - Av. Emilio Olmos 485 - CP5000 - Córdoba Capital",
+      "id": "14",
+      "phone": "0810-444-5444",
+      "email": "centrocordoba@pseguros.com.ar",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Junín - Gral. Paz 131 - CP6000 - Junín",
+      "id": "06",
+      "phone": "(0236) 442-7132 / 442-8996 ",
+      "person": "Pamela Fracchia",
+      "email": "centrojunin@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "La Plata - Calle 11 n°601 y Av. 44 - CP 1900 - La Plata",
+      "id": "06",
+      "phone": "(0221) 489-8363 / 482-8099 / 483-7666/ 0800-222-7666",
+      "person": "Cherñavsky, Flavia Andrea.",
+      "email": "centrolaplata@pseguros.com.ar",
+      "hours": "8 a 16:00."
+    },
+    {
+      "address": "Luján - Bartolomé Mitre 300 esq. Rivadavia - CP6700 - Luján",
+      "id": "06",
+      "phone": "(02323) 43-8180 / 43-8206",
+      "person": "Roque Reyes Naya",
+      "email": "centrolujan@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Mar del Plata - Av. Independencia 3855 - CP7600 – General Pueyrredón",
+      "id": "06",
+      "phone": "(0223) 476-1050",
+      "person": "Gustavo Panizzo",
+      "email": "centromardelplata@pseguros.com.ar ",
+      "hours": "9:00 a 16:00."
+    },
+    {
+      "address": "Mendoza - Montevideo 366 – CP : 5500 – Mendoza Ciudad",
+      "id": "50",
+      "phone": "(0261) 438-0582 / (0346) 423-5153 / 429-0102",
+      "person": "Marcelo Jorquera",
+      "email": "centromendoza@pseguros.com.ar",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Morón - República Oriental del Uruguay 161/163 - Morón",
+      "id": "06",
+      "phone": "4629-1228/1246/1426 / 4483-0055",
+      "person": "Gustavo Fama",
+      "email": "centromoron@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Olavarría - Coronel. Suárez 2801 - CP7400 - Olavarría",
+      "id": "06",
+      "phone": "(02284) 445-562 / 445-514 ",
+      "person": "Rubén Darío Hernández",
+      "email": "centroolavarria@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Pehuajó - Leandro N. Alem 479 - CP6450 – Pehuajó",
+      "id": "06",
+      "phone": "(02396) 47-8531 / 47-8614",
+      "email": "centropehuajo@pseguros.com.ar",
+      "hours": "9 a 17:00."
+    },
+    {
+      "address": "Pilar - J. Uriburu 1117 - Complejo MIRAGE, Local 4 entre Los Narcisos y J.B. Ambrosetti - CP1629 - Pilar",
+      "id": "06",
+      "phone": "(0230) 66-7360/7361",
+      "person": "Mariano Rios",
+      "email": "centropilar@pseguros.com.ar ",
+      "hours": "9 a 17:00."
+    },
+    {
+      "address": "Posadas - La Rioja 2294 Esq. San Luis Posadas - CP 3300 - Posadas",
+      "id": "54",
+      "phone": "(0376) 443-7756 / 442-1549 / 443-0494",
+      "person": "Paula Elewaut ",
+      "email": "centroposadas@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Rosario - España 1402 - CP2000 - Ciudad de Rosario",
+      "id": "82",
+      "phone": "(0341) 338-9842",
+      "email": "centrorosario@pseguros.com.ar",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Saladillo - Rivadavia 2903 - Esq. Roca - CP7260 - Saladillo",
+      "id": "06",
+      "phone": "(02344) 45-1737 / 1738",
+      "email": "centrosaladillo@pseguros.com.ar",
+      "hours": "9 a 17:00."
+    },
+    {
+      "address": "San Isidro - Av. Santa Fe 1191 - CP 1641 - San Isidro",
+      "id": "06",
+      "phone": "011-4346-7300",
+      "person": "Daniel Adrián Puccio",
+      "hours": " 9:00 a 17:00"
+    },
+    {
+      "address": "Santa Fe - Calle 1 de Mayo 2255 - CP3000 - Ciudad de Santa Fe",
+      "id": "82",
+      "phone": "(0342) 455-0903/6873 / 455-6912/6918",
+      "person": "Juan Alberto Moreno",
+      "email": "centrosantafe@pseguros.com.ar",
+      "hours": "9 a 16:30."
+    },
+    {
+      "address": "Tandil - Chacabuco 968 - B8604 - Tandil",
+      "id": "06",
+      "phone": "(0249) 443-4347 / 4348",
+      "person": "Nicolás Barberia",
+      "email": "centrotandil@pseguros.com.ar",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Trenque Lauquen - Julio Argentino Roca 864",
+      "phone": " (02392)  - 433111/(02392)  - 433148",
+      "email": "centrotrenquelauquen@pseguros.com.ar",
+      "hours": "9 a 16:30."
+    },
+    {
+      "address": "Villa Gesell - Av. 3 y Calle 115 - CP7165 - Villa Gesell",
+      "id": "06",
+      "phone": "(02255) 46-7020 / 7040",
+      "person": "Gustavo Panizzo",
+      "email": "centrovillagesell@pseguros.com.ar ",
+      "hours": "9 a 16:00."
+    },
+    {
+      "address": "Zárate - Leandro N. Alem 345 - CP2800 - Zarate",
+      "id": "06",
+      "phone": "(03487) 42-6152 / 43-2038 / 44-8271/8298",
+      "person": "Alejandro Boris Amizic",
+      "email": "centrozarate@pseguros.com.ar ",
+      "hours": "9 a 16:30."
+    }
+  ]
+}
